@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "dev": "deno run -A --watch npm-helper.ts cryptocurrency-icons",
+    "compile": "deno compile -A npm-helper.ts npmdesc"
+  }
+}
